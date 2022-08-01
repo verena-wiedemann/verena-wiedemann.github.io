@@ -82,7 +82,7 @@ analytics:
 author:
   name             : #"Verena Wiedemann"
   avatar           : #"profile.png"
-  bio              : "<p> I am a PhD candidate in Economics at the University of Oxford. <br> My research interest lies at the intersection of trade, production networks, firm dynamics, and economic development. <\p>"
+  bio              : "<p> I am a PhD candidate in Economics at the University of Oxford. <br> My research interest lies at the intersection of trade, production networks, firm dynamics, and economic development. </p>"
   location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
