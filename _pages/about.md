@@ -1,7 +1,7 @@
 ---
 title: ''
 permalink: /
-excerpt: About me
+excerpt: Economist with a love for big data and networks.
 author_profile: yes
 redirect_from:
 - /about/
