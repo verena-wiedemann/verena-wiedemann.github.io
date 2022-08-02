@@ -10,13 +10,13 @@ redirect_from:
 
 
 ## Research ###
-**Supply chains in times of crisis: Evidence from Kenya's production network** \
+### Supply chains in times of crisis: Evidence from Kenya's production network
 with Peter W. Chacha and Benard K. Kirui
 <details>
 <summary>Abstract</summary>
 <div align="justify">  <small> Trading relationships between suppliers and buyers play a key role in transmitting both local and international shocks. We use rich transaction-level data from Kenya to study the relevance of a firm's domestic network position and links to international supply chains in determining its trajectory during the COVID-19 crisis. We document that firms with varying degrees of exposure to import and export markets differ substantially in terms of their size and age profile. The specialisation of direct importers, often intermediaries, on international markets made them very vulnerable to the initial COVID-19 shock. Exporters, one-third of which operate in primary sectors, experienced a less drastic downturn. We find that both importers and exporters adjust their domestic supply chains in response to international trade shocks. Sourcing from international markets crowds in domestic purchases, while sales abroad and at home are substitutes. Diversified domestic networks further helped to mitigate the impact of severe shocks like the COVID-19 crisis and contributed to a stronger recovery. </small>  </div> </details> 
 
-**Tracking price dynamics during a pandemic in Kenya and Uganda** \
+### Tracking price dynamics during a pandemic in Kenya and Uganda
 with [George K. Kinyanjui](https://sites.google.com/view/george-kariuki-kinyanjui/home?authuser=0) and Doreen K. Rubatsimbira \
 [Bank of Uganda working paper](https://www.bou.or.ug/bou/bouwebsite/bouwebsitecontent/research/BoUworkingPapers/research/BouWorkingPapers/2021/Tracking-price-dynamics-during-a-pandemic-in-Kenya-and-Uganda_WP-02-2021.pdf)| [IGC report](https://www.theigc.org/wp-content/uploads/2021/07/Wiedmann-et-al-June-2021-Final-report.pdf) | [Policy brief](https://www.theigc.org/wp-content/uploads/2021/07/Kinyanjui-et-al-June-2021-Policy-brief.pdf) 
 <details>
