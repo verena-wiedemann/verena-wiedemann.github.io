@@ -20,6 +20,18 @@ PEDL C-19 blog posts: \
 
 ### Mapping Kenya's production network <img src="images/undirected_matlab_network_copper.png" width="200" align="right" /> 
 with Peter W. Chacha and Benard K. Kirui 
+<details>
+<summary>In brief</summary>
+<div align="justify">  <small> 
+We use administrative tax records to track over 4 million firm-to-firm relationships between 57,000 formal private sector firms in Kenya. The data allows us to map the domestic production network and study trade flows between regions and sectors over the course of six years. We further study links of the network to international supply chains, proximity to final consumers and the public sector.
+ </small>  </div> </details> 
+ 
+### Upgrades to internet infrastructure and domestic market integration
+<details>
+<summary>In brief</summary>
+<div align="justify">  <small> 
+This project studies the relevance of upgrades to digital infrastructure for domestic firm-to-firm trade and the geographic dispersion of welfare gains from greater connectivity in Kenya.
+ </small>  </div> </details> 
  
 ### Tracking price dynamics during a pandemic in Kenya and Uganda 
 with [George K. Kinyanjui](https://sites.google.com/view/george-kariuki-kinyanjui/home?authuser=0) and Doreen K. Rubatsimbira <img src="images/heatmap_rice.png" width="200" align="right" /> \
@@ -28,6 +40,13 @@ with [George K. Kinyanjui](https://sites.google.com/view/george-kariuki-kinyanju
 <summary>Abstract</summary>
 <div align="justify"> <small> As the Covid-19 pandemic unfolded across the globe, the economic impact has been characterised by a combination of supply and demand shocks with an *a priori* unclear effect on price dynamics. Using real-time primary price data covering a wide range of geographic areas, we track the impact of the pandemic on prices in Kenya and Uganda during the initial shutdown period and the subsequent re-opening phase. We find evidence that price levels for essential food items were higher during the initial phase of the pandemic. The impact was short-lived and moderate in Kenya, but continued for an extended period in Uganda where government restrictions were tighter and in place for a more prolonged period of time. We further combine the price data with information on changes in visiting patterns of smartphone users at localities like workplaces, grocery stores and other retail locations. The results suggest that mobility patterns continue to have an impact on price dynamics beyond the initial shutdown phase. We estimate that a 10 percentage point reduction in activities at workplace locations leads to a 0.3% and 1.4% increase in food prices in Kenya and Uganda respectively. This result is stable across a variety of empirical specifications, although we cannot rule out that the effect is zero in Kenya. </small> </div> </details> 
 
+### Who is paying the price? The response of consumer prices to political disruptions
+<details>
+<summary>In brief</summary>
+<div align="justify">  <small> 
+This project looks at the implications of protests and political disruptions for consumer price dynamics in Ethiopia
+and Pakistan combining geo-referenced secondary and primary data.
+</small> </div> </details> 
 
 ## Pre-doctoral publication ###
 ### Taxing investments in the Asia-Pacific region: the importance of cross-border taxation and fiscal incentives.
