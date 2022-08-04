@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : #"Verena Wiedemann"
-  avatar           : #"profile.png"
+  avatar           : "profile_pic.jpg"
   bio              : "<p> I am a PhD candidate in Economics at the University of Oxford. <br> My research interest lies at the intersection of trade, production networks, firm dynamics, and economic development. </p>"
   location         : 
   employer         :
