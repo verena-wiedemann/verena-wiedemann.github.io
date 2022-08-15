@@ -12,7 +12,7 @@ redirect_from:
 ## Research ###
 ### Supply chains in times of crisis: Evidence from Kenya's production network 
  with Peter Wankuru Chacha and Benard Kipyegon Kirui <img src="images/weekly_transactions_2019_20_21_with_policyevents.png" width="150" align="right" /> \
- [Draft](http://verena-wiedemann.github.io/files/Covid_supply_chains_August2022.pdf) \
+ [Working paper](http://verena-wiedemann.github.io/files/Covid_supply_chains_August2022.pdf) \
 PEDL C-19 blog posts:   
 [Domestic and international trade flows](https://pedl.cepr.org/publications/domestic-and-international-trade-flows-during-covid-19-pandemic-evidence-kenya%E2%80%99s) | [Employment in formal firms](https://pedl.cepr.org/publications/short-term-impact-covid-19-shock-employment-formal-firms-kenya) 
 <details>
