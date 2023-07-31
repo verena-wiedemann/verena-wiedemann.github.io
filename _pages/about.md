@@ -17,7 +17,7 @@ with Peter Wankuru Chacha, [Benard Kirui](https://www.pc.go.ke/node/378), and [V
  
 ## Working papers ###
 ### Supply chains in times of crisis: Evidence from Kenya's production network 
- with Peter Wankuru Chacha and [Benard Kirui](https://www.pc.go.ke/node/378) 
+ with Peter Wankuru Chacha and [Benard Kirui](https://www.pc.go.ke/node/378) \
  [Latest draft](http://verena-wiedemann.github.io/files/Covid_supply_chains_July2023.pdf)  <em>Conditionally accepted at World Development</em> 
 <details>
 <summary>Abstract</summary>
