@@ -10,14 +10,14 @@ redirect_from:
 
 ## Work in Progress ###
 ### Spatial Inequality and Informality in Kenya's Firm Network 
-with Peter Wankuru Chacha, [Benard Kirui](https://www.pc.go.ke/node/378), and [Vatsal Khandelwal](https://sites.google.com/view/vatsalkhandelwal/home) \
+with Peter Wankuru Chacha, [Benard Kirui](https://www.pc.go.ke/node/378), and [Vatsal Khandelwal](https://sites.google.com/view/vatsalkhandelwal/home) 
 <details>
 <summary>Abstract</summary>
 <div align="justify">  <small> The spatial configuration of domestic supply chains plays a crucial role in the transmission of shocks. This paper leverages transaction-level tax records to study spatial patterns of domestic firm-to-firm trade in Kenya and explores how these patterns may be shaped by the presence of an unobserved informal sector. First, we document stylised facts about formal firms in this setting, revealing a high degree of spatial concentration in the network, over and above the concentration of aggregate economic activity. 90% of the cross-regional variation in trade volumes can be attributed to the extensive margin of trade, the location of firms and the number of firm-to-firm relationships they form. Using data from the population census and national accounts, we further show that informality is particularly prevalent in downstream economic activities and smaller regional markets. We link our insights about the sectoral and spatial composition with a network formation model to investigate how accounting for informal firms affects spatial inequality in firm-to-firm trade. We find that including informal firms increases the outdegree of firms in regions with the highest level of informal activity. Overall, our results suggest that not accounting for informal firms underestimates the connectivity and vulnerability of smaller regions to shocks, especially those that pass through hubs such as Nairobi. </small>  </div> </details> 
  
 ## Working papers ###
 ### Supply chains in times of crisis: Evidence from Kenya's production network 
- with Peter Wankuru Chacha and [Benard Kirui](https://www.pc.go.ke/node/378) \
+ with Peter Wankuru Chacha and [Benard Kirui](https://www.pc.go.ke/node/378) 
  [Latest draft](http://verena-wiedemann.github.io/files/Covid_supply_chains_July2023.pdf)  <em>Conditionally accepted at World Development</em> \
 <details>
 <summary>Abstract</summary>
