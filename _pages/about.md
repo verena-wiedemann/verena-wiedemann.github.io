@@ -18,7 +18,7 @@ with Peter Wankuru Chacha, [Benard Kirui](https://www.pc.go.ke/node/378), and [V
 ## Working papers ###
 ### Supply chains in times of crisis: Evidence from Kenya's production network 
  with Peter Wankuru Chacha and [Benard Kirui](https://www.pc.go.ke/node/378) 
- [Latest draft](http://verena-wiedemann.github.io/files/Covid_supply_chains_July2023.pdf)  <em>Conditionally accepted at World Development</em> \
+ [Latest draft](http://verena-wiedemann.github.io/files/Covid_supply_chains_July2023.pdf)  <em>Conditionally accepted at World Development</em> 
 <details>
 <summary>Abstract</summary>
 <div align="justify">  <small> Trading relationships between suppliers and buyers play a key role in transmitting both local and international shocks. We use transaction-level data from Kenya to study the relevance of a firm's domestic network position and links to international supply chains in determining its trajectory during the COVID-19 crisis. We document that firms with high exposure to import and export markets tend to be larger, older, and employ more workers. The specialisation of direct importers, often intermediaries, on international markets made them very vulnerable to the initial COVID-19 shock. Exporters, one-third of whom operate in primary sectors, experienced a less severe decline in sales. We find that both importers and exporters adjust their domestic supply chains in response to international trade shocks - before and during the crisis alike. Sourcing from international markets does not crowd out domestic purchases, while sales abroad and at home can act as substitutes. Diversified domestic supply chains helped firms to mitigate the impact of the COVID-19 crisis and recover more strongly. </small>  </div> </details> 
