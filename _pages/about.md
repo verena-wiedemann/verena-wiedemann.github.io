@@ -8,16 +8,13 @@ redirect_from:
 - /about.html
 ---
 
-## Work in Progress ###
+## Working papers ###
 ### Spatial Inequality and Informality in Kenya's Firm Network 
-with Peter Wankuru Chacha, [Benard Kirui](https://www.pc.go.ke/node/378), and [Vatsal Khandelwal](https://sites.google.com/view/vatsalkhandelwal/home) 
+with Peter Wankuru Chacha, [Vatsal Khandelwal](https://sites.google.com/view/vatsalkhandelwal/home), and [Benard Kirui](https://www.pc.go.ke/node/378) <em>e-mail for draft</em> 
 <details>
 <summary>Abstract</summary>
 <div align="justify">  <small> The spatial configuration of domestic supply chains plays a crucial role in the transmission of shocks. This paper leverages transaction-level tax records to study spatial patterns of domestic firm-to-firm trade in Kenya and explores how these patterns may be shaped by the presence of an unobserved informal sector. First, we document stylised facts about formal firms in this setting, revealing a high degree of spatial concentration in the network, over and above the concentration of aggregate economic activity. 90% of the cross-regional variation in trade volumes can be attributed to the extensive margin of trade, the location of firms and the number of firm-to-firm relationships they form. Using data from the population census and national accounts, we further show that informality is particularly prevalent in downstream economic activities and smaller regional markets. We link our insights about the sectoral and spatial composition with a network formation model to investigate how accounting for informal firms affects spatial inequality in firm-to-firm trade. We find that including informal firms increases the outdegree of firms in regions with the highest level of informal activity. Overall, our results suggest that not accounting for informal firms underestimates the connectivity and vulnerability of smaller regions to shocks, especially those that pass through hubs such as Nairobi. </small>  </div> </details> 
- 
-## Working papers ###
 
- 
 ### Changing mobility patterns and food price dynamics during the COVID-19 pandemic in Kenya and Uganda 
 with [George Kariuki Kinyanjui](https://sites.google.com/view/george-kariuki-kinyanjui/home?authuser=0) and Doreen K. Rubatsimbira <img src="images/heatmap_rice.png" width="200" align="right" /> \
 [Bank of Uganda working paper](https://www.bou.or.ug/bou/bouwebsite/bouwebsitecontent/research/BoUworkingPapers/research/BouWorkingPapers/2021/Tracking-price-dynamics-during-a-pandemic-in-Kenya-and-Uganda_WP-02-2021.pdf) | [IGC report](https://www.theigc.org/wp-content/uploads/2021/07/Wiedmann-et-al-June-2021-Final-report.pdf) | [Policy brief](https://www.theigc.org/wp-content/uploads/2021/07/Kinyanjui-et-al-June-2021-Policy-brief.pdf) 
@@ -25,14 +22,11 @@ with [George Kariuki Kinyanjui](https://sites.google.com/view/george-kariuki-kin
 <summary>Abstract</summary>
 <div align="justify"> <small> Real-time price data collection during crises is crucial for informing policy responses, but can be challenging due to fast-changing consumption and mobility patterns. We adopt a crowd-sourcing approach to investigate the impact of the COVID-19 pandemic on prices of essential food items in Kenya and Uganda. Combining this price data with information on changes in mobility patterns, we find that a 10 percentage point reduction in mobility leads to a 0.3 percent and 1.5 percent increase in food prices in Kenya and Uganda, respectively. Our results are robust across a variety of empirical specifications, but we cannot conclusively rule out a zero effect in Kenya. Furthermore, our findings indicate that mobility patterns continue to impact price dynamics beyond the initial shutdown phase. </small> </div> </details> 
 
-### Mapping Kenya's production network <img src="images/undirected_matlab_network_copper.png" width="200" align="right" /> 
-with Peter Wankuru Chacha and [Benard Kirui](https://www.pc.go.ke/node/378)
-<details>
-<summary>In brief</summary>
-<div align="justify">  <small> 
-We discuss how tax returns can be used to map Kenya's domestic firm and describe the network's fundamental properties. Where possible we document how those properties align with firm networks in other contexts for which similar data are available. </small>  </div> </details> 
-
-## Publications ###
+## Selected Work in Progress ###
+### Spatial diffusion of services in Kenya 
+with Peter Wankuru Chacha, [Luke Heath Milsom](https://www.lukemilsom.com/), and [Benard Kirui](https://www.pc.go.ke/node/378)
+ 
+## Published Papers ###
 ### Supply chains in times of crisis: Evidence from Kenya's production network 
 *World Development* 173 (2024) \
  with Peter Wankuru Chacha and [Benard Kirui](https://www.pc.go.ke/node/378) \
@@ -46,7 +40,13 @@ We discuss how tax returns can be used to map Kenya's domestic firm and describe
 with [Katharina Nicolay](https://www.zew.de/en/team/kfi) \
 [ZEW working paper](https://ftp.zew.de/pub/zew-docs/dp/dp15014.pdf) | [Published version](https://www.ibfd.org/shop/journal/asia-pacificinternational-taxing-investments-asia-pacific-region-importance-cross)
 
+## Other research output ###
+### Mapping Kenya's production network <img src="images/undirected_matlab_network_copper.png" width="200" align="right" /> 
+with Peter Wankuru Chacha and [Benard Kirui](https://www.pc.go.ke/node/378)
+<details>
+<summary>In brief</summary>
+<div align="justify">  <small> 
+We discuss how tax returns can be used to map Kenya's domestic firm and describe the network's fundamental properties. Where possible we document how those properties align with firm networks in other contexts for which similar data are available. </small>  </div> </details> 
 
-  
 
 
