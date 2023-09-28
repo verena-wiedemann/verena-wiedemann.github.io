@@ -10,7 +10,7 @@ redirect_from:
 
 ## Working papers ###
 ### Spatial Inequality and Informality in Kenya's Firm Network 
-with Peter Wankuru Chacha, [Vatsal Khandelwal](https://sites.google.com/view/vatsalkhandelwal/home), and [Benard Kirui](https://www.pc.go.ke/node/378) <em>e-mail for draft</em> 
+with Peter Wankuru Chacha, [Vatsal Khandelwal](https://sites.google.com/view/vatsalkhandelwal/home), and [Benard Kipyegon Kirui](https://www.pc.go.ke/node/378), <em>e-mail for draft</em> 
 <details>
 <summary>Abstract</summary>
 <div align="justify">  <small> The spatial configuration of domestic supply chains plays a crucial role in the transmission of shocks. This paper leverages transaction-level tax records to study spatial patterns of domestic firm-to-firm trade in Kenya and explores how these patterns may be shaped by the presence of an unobserved informal sector. First, we document stylised facts about formal firms in this setting, revealing a high degree of spatial concentration in the network, over and above the concentration of aggregate economic activity. 90% of the cross-regional variation in trade volumes can be attributed to the extensive margin of trade, the location of firms and the number of firm-to-firm relationships they form. Using data from the population census and national accounts, we further show that informality is particularly prevalent in downstream economic activities and smaller regional markets. We link our insights about the sectoral and spatial composition with a network formation model to investigate how accounting for informal firms affects spatial inequality in firm-to-firm trade. We find that including informal firms increases the outdegree of firms in regions with the highest level of informal activity. Overall, our results suggest that not accounting for informal firms underestimates the connectivity and vulnerability of smaller regions to shocks, especially those that pass through hubs such as Nairobi. </small>  </div> </details> 
@@ -24,13 +24,13 @@ with [George Kariuki Kinyanjui](https://sites.google.com/view/george-kariuki-kin
 
 ## Selected Work in Progress ###
 ### Spatial diffusion of services in Kenya 
-with Peter Wankuru Chacha, [Luke Heath Milsom](https://www.lukemilsom.com/), and [Benard Kirui](https://www.pc.go.ke/node/378)
+with Peter Wankuru Chacha, [Luke Heath Milsom](https://www.lukemilsom.com/), and [Benard Kipyegon Kirui](https://www.pc.go.ke/node/378)
  
 ## Published Papers ###
 ### Supply chains in times of crisis: Evidence from Kenya's production network 
 *World Development* 173 (2024) \
- with Peter Wankuru Chacha and [Benard Kirui](https://www.pc.go.ke/node/378) \
-[Published version](https://www.sciencedirect.com/science/article/pii/S0305750X2300181X?dgcid=coauthor#appSE) | [Accepted manuscript](http://verena-wiedemann.github.io/files/Covid_supply_chains_July2023.pdf),  [Replication code](http://verena-wiedemann.github.io/files/CKW_WD_replication_code.zip)
+ with Peter Wankuru Chacha and [Benard Kipyegon Kirui](https://www.pc.go.ke/node/378) \
+[Published version](https://www.sciencedirect.com/science/article/pii/S0305750X2300181X?dgcid=coauthor#appSE) | [Accepted manuscript](http://verena-wiedemann.github.io/files/Covid_supply_chains_July2023.pdf) | [Replication code](http://verena-wiedemann.github.io/files/CKW_WD_replication_code.zip)
 <details>
 <summary>Abstract</summary>
 <div align="justify">  <small> Trading relationships between suppliers and buyers play a key role in transmitting both local and international shocks. We use transaction-level data from Kenya to study the relevance of a firm's domestic network position and links to international supply chains in determining its trajectory during the COVID-19 crisis. We document that firms with high exposure to import and export markets tend to be larger, older, and employ more workers. The specialisation of direct importers, often intermediaries, on international markets made them very vulnerable to the initial COVID-19 shock. Exporters, one-third of whom operate in primary sectors, experienced a less severe decline in sales. We find that both importers and exporters adjust their domestic supply chains in response to international trade shocks - before and during the crisis alike. Sourcing from international markets does not crowd out domestic purchases, while sales abroad and at home can act as substitutes. Diversified domestic supply chains helped firms to mitigate the impact of the COVID-19 crisis and recover more strongly. </small>  </div> </details> 
@@ -38,11 +38,11 @@ with Peter Wankuru Chacha, [Luke Heath Milsom](https://www.lukemilsom.com/), and
 ### Taxing investments in the Asia-Pacific region: the importance of cross-border taxation and fiscal incentives.
 *World Tax Journal* 8(2), pp.193-223 (2016) \
 with [Katharina Nicolay](https://www.zew.de/en/team/kfi) \
-[ZEW working paper](https://ftp.zew.de/pub/zew-docs/dp/dp15014.pdf) | [Published version](https://www.ibfd.org/shop/journal/asia-pacificinternational-taxing-investments-asia-pacific-region-importance-cross)
+[Published version](https://www.ibfd.org/shop/journal/asia-pacificinternational-taxing-investments-asia-pacific-region-importance-cross) | [ZEW working paper](https://ftp.zew.de/pub/zew-docs/dp/dp15014.pdf)  
 
 ## Other research output ###
 ### Mapping Kenya's production network <img src="images/undirected_matlab_network_copper.png" width="200" align="right" /> 
-with Peter Wankuru Chacha and [Benard Kirui](https://www.pc.go.ke/node/378)
+with Peter Wankuru Chacha and [Benard Kipyegon Kirui](https://www.pc.go.ke/node/378)
 <details>
 <summary>In brief</summary>
 <div align="justify">  <small> 
