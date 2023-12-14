@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Verena Wiedemann"
 title_separator          : "-"
 name                     : &name "Verena Wiedemann"
-description              : &description "PhD student in Economics at the University of Oxford"
+description              : &description "Economist at the International Finance Corporation"
 url                      : https://verena-wiedemann.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "verena-wiedemann/verena-wiedemann.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : #"Verena Wiedemann"
   avatar           : "profile_pic.jpg"
-  bio              : "<p> I am a PhD candidate in Economics at the University of Oxford. <br> My research interest lies at the intersection of trade, production networks, firm dynamics, and economic development. </p>"
+  bio              : "<p> I am an economist in the Economic Research Unit at the International Finance Corporation (World Bank Group). <br> <br> My research interest lies at the intersection of trade, production networks, firm dynamics, and economic development. <br> <br> In 2023, I completed my PhD in Economics at the University of Oxford, where I remain affiliated with the Department of Economics and the Centre for the Study of African Economies as an academic visitor.  </p> "
   location         : 
-  employer         :
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "verena.wiedemann@economics.ox.ac.uk"
+  email            : "vwiedemann@ifc.org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@Verena_W_"
+  twitter          : #"@Verena_W_"
   vine             :
   weibo            :
   xing             :
