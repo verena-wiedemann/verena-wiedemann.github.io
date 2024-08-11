@@ -10,10 +10,11 @@ redirect_from:
 
 ## Working papers ###
 ### Spatial Inequality and Informality in Kenya's Firm Network 
-with Peter Wankuru Chacha, [Vatsal Khandelwal](https://sites.google.com/view/vatsalkhandelwal/home), and [Benard Kipyegon Kirui](https://www.pc.go.ke/node/378) | <em>new draft coming soon</em> 
+with Peter Wankuru Chacha, [Vatsal Khandelwal](https://sites.google.com/view/vatsalkhandelwal/home), and [Benard Kipyegon Kirui](https://www.pc.go.ke/node/378) \
+[Latest draft](https://verena-wiedemann.github.io/files/WKKC_Spatial_Inequality_Informality.pdf)
 <details>
 <summary>Abstract</summary>
-<div align="justify">  <small> The spatial configuration of domestic supply chains plays a crucial role in the transmission of shocks. This paper leverages transaction-level tax records to study spatial patterns of domestic firm-to-firm trade in Kenya and explores how these may be shaped by the presence of an unobserved informal sector. First, we document stylised facts about formal firms in this setting, revealing a high degree of spatial concentration in the production network, over and above the concentration of aggregate economic activity. Then, using data from the population census and national accounts, we show that informality is particularly prevalent in downstream economic activities and smaller regional markets. We structurally estimate a network formation model and find that accounting for informal firms in a counterfactual network increases the outdegree of firms in regions with the highest levels of informal activity and reduces the dispersion in outdegrees across counties. Further, we find that the higher the informality in a sector and region, the more we underestimate its vulnerability to domestic shocks and the more we overestimate its vulnerability to import shocks. </small>  </div> </details> 
+<div align="justify">  <small> The spatial configuration of domestic supply chains plays a crucial role in the transmission of shocks. This paper investigates the representativeness of formal firm-to-firm trade data in capturing overall domestic trade patterns in Kenya --- a context with a high prevalence of informal economic activity. We first document a series of stylized facts and show that informal economic activity is not randomly distributed across space and sectors, with a higher incidence of informality in downstream sectors and smaller regional markets. We then link granular transaction-level data on formal firms with data on informal economic activity to estimate a structural model and predict a counterfactual network that accounts for informal firms. We find that formal sector data overstates the spatial concentration of aggregate trade flows and under accounts for trade within regions and across regions with stronger social ties. Additionally, the higher the informality in a sector and region, the more we underestimate its vulnerability to domestic output shocks and overestimate its vulnerability to import shocks. </small>  </div> </details> 
 
 ## Selected Work in Progress ###
 ### Spatial diffusion of services in Kenya 
@@ -40,13 +41,6 @@ with [George Kariuki Kinyanjui](https://sites.google.com/view/george-kariuki-kin
 <details>
 <summary>Abstract</summary>
 <div align="justify"> <small> Real-time price data collection during crises is crucial for informing policy responses, but can be challenging due to fast-changing consumption and mobility patterns. We adopt a crowd-sourcing approach to investigate the impact of the COVID-19 pandemic on prices of essential food items in Kenya and Uganda. Combining this price data with information on changes in mobility patterns, we find that a 10 percentage point reduction in mobility leads to a 0.3 percent and 1.5 percent increase in food prices in Kenya and Uganda, respectively. Our results are robust across a variety of empirical specifications, but we cannot conclusively rule out a zero effect in Kenya. Furthermore, our findings indicate that mobility patterns continue to impact price dynamics beyond the initial shutdown phase. </small> </div> </details> 
-
-### Mapping Kenya's production network <img src="images/undirected_matlab_network_copper.png" width="200" align="right" /> 
-with Peter Wankuru Chacha and [Benard Kipyegon Kirui](https://www.pc.go.ke/node/378)
-<details>
-<summary>In brief</summary>
-<div align="justify">  <small> 
-We discuss how tax returns can be used to map Kenya's domestic firm and describe the network's fundamental properties. Where possible we document how those properties align with firm networks in other contexts for which similar data are available. </small>  </div> </details> 
 
 
 
