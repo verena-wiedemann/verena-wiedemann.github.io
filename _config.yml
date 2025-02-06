@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : #"Verena Wiedemann"
   avatar           : "profile_pic.jpg"
-  bio              : "<p> I am an economist in the Economic Research Unit at the International Finance Corporation (World Bank Group). <br> <br> My research interest lies at the intersection of trade, production networks, firm dynamics, and economic development. <br> <br> In 2023, I completed my PhD in Economics at the University of Oxford, where I remain affiliated with the Department of Economics and the Centre for the Study of African Economies as an academic visitor.  </p> "
+  bio              : "<p> I am an economist in the Economic Research Unit at the International Finance Corporation (World Bank Group). <br> <br> My research interest lies at the intersection of trade, production networks, firm dynamics, and economic development. <br> <br> In 2023, I completed my PhD in Economics at the University of Oxford, where I remain affiliated with the Department of Economics and the Centre for the Study of African Economies as an academic visitor. <br> <br> I am a member of the World Bank's <a href="https://www.worldbank.org/en/programs/datax-lab">DaTax</a> - a lab to study taxes, firms and jobs using microdata. </p> "
   location         : 
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"@Verena_W_"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
