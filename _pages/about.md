@@ -11,7 +11,7 @@ redirect_from:
 ## Working papers ###
 ### Spatial Inequality and Informality in Kenya's Firm Network 
 with Peter Wankuru Chacha, [Vatsal Khandelwal](https://sites.google.com/view/vatsalkhandelwal/home), and [Benard Kipyegon Kirui](https://www.pc.go.ke/node/378) \
-[Latest draft (July 2025)](https://verena-wiedemann.github.io/files/WKKC_Spatial_Inequality_Informality.pdf) | [World Bank Working Paper Series](https://hdl.handle.net/10986/42215)
+[Latest draft (July 2025)](https://verena-wiedemann.github.io/files/WKKC_Spatial_Inequality_Informality.pdf) | [World Bank Working Paper Series](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099158309302418763/idu1cbcafe951348e147c4181b218f42b4ec6da5)
 <details>
 <summary>Abstract</summary>
 <div align="justify">  <small> The spatial configuration of domestic supply chains plays a crucial role in the transmission of shocks. This paper investigates the representativeness of formal sector firm-to-firm trade data in capturing domestic trade patterns in Kenya, a context with high informality. We document stylized facts showing that formal sector trade exhibits a distinct spatial concentration relative to overall economic activity. Linking transaction-level data with data on informal economic activity, we estimate a structural model and predict a revised network incorporating informal firms. We find that formal sector trade flows underaccount for trade within regions and across regions with stronger social ties. The higher the incidence of informality, the more we underestimate vulnerability to domestic shocks and overestimate exposure to import shocks. </small>  </div> </details> 
