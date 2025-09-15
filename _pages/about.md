@@ -23,7 +23,7 @@ with Peter Wankuru Chacha, [Luke Heath Milsom](https://www.lukemilsom.com/), and
 ### Which firms benefit from internet infrastructure?
 
 ### Supply chain impacts of the EU Carbon Border Adjustment Mechanism
-with [Anne Brockmeyer](https://www.annebrockmeyer.com/), [G&uuml;ne&scedil; A&scedil;&imath;k](https://sites.google.com/view/gunesasik), and [Lucas Zavala](https://www.lzavala.com/)
+with [Anne Brockmeyer](https://www.annebrockmeyer.com/), [G&uuml;neş Aşık](https://sites.google.com/view/gunesasik), and [Lucas Zavala](https://www.lzavala.com/)
 
 
 ## Published Papers ###
@@ -40,13 +40,20 @@ with [Anne Brockmeyer](https://www.annebrockmeyer.com/), [G&uuml;ne&scedil; A&sc
 with [Katharina Nicolay](https://www.zew.de/en/team/kfi) \
 [Published version](https://www.ibfd.org/shop/journal/asia-pacificinternational-taxing-investments-asia-pacific-region-importance-cross) | [ZEW working paper](https://ftp.zew.de/pub/zew-docs/dp/dp15014.pdf)  
 
-## Other research output ###
+## Other research output and writing ###
 
-### Innovation in Green Technologies. An opportunity for businesses in low and middle income countries?
-[IFC report](https://www.ifc.org/en/insights-reports/2025/innovation-in-green-technologies) led by [Ralf Martin](https://mondpanther.github.io/wwwmondpanther/)
+### Innovation in green technologies. An opportunity for businesses in low and middle income countries?
+[*IFC insights report*](https://www.ifc.org/en/insights-reports/2025/innovation-in-green-technologies) (2025) \
+led by [Ralf Martin](https://mondpanther.github.io/wwwmondpanther/)
 
 ### *VoxDevLit* on industrial development - chapter on services
-edited by [Francesco Amodio](https://sites.google.com/site/fscoamodio/home) and [Markus Poschke](https://markus-poschke.research.mcgill.ca/Index.html), with [Matthew Schwartzman](https://www.matthewschwartzman.com/home) and [Marco Sanfilippo](https://sites.google.com/view/marcosanfilippo/home)
+*work in progress* \
+with [Matthew Schwartzman](https://www.matthewschwartzman.com/home) and [Marco Sanfilippo](https://sites.google.com/view/marcosanfilippo/home) \
+edited by [Francesco Amodio](https://sites.google.com/site/fscoamodio/home) and [Markus Poschke](https://markus-poschke.research.mcgill.ca/Index.html)
+
+### Where does solar scale?
+*work in progress* \
+with Soumya Agrawal, [Ralf Martin](https://mondpanther.github.io/wwwmondpanther/), and [Golvine de Rochambeau](https://golvine.com/)
 
 ### Changing mobility patterns and food price dynamics during the COVID-19 pandemic in Kenya and Uganda 
 with [George Kariuki Kinyanjui](https://sites.google.com/view/george-kariuki-kinyanjui/home?authuser=0) and Doreen K. Rubatsimbira <img src="images/heatmap_rice.png" width="200" align="right" /> \
