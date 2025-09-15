@@ -16,7 +16,7 @@ with Peter Wankuru Chacha, [Vatsal Khandelwal](https://sites.google.com/view/vat
 <summary>Abstract</summary>
 <div align="justify">  <small> The spatial configuration of domestic supply chains plays a crucial role in the transmission of shocks. This paper investigates the representativeness of formal sector firm-to-firm trade data in capturing domestic trade patterns in Kenya, a context with high informality. We document stylized facts showing that formal sector trade exhibits a distinct spatial concentration relative to overall economic activity. Linking transaction-level data with data on informal economic activity, we estimate a structural model and predict a revised network incorporating informal firms. We find that formal sector trade flows underaccount for trade within regions and across regions with stronger social ties. The higher the incidence of informality, the more we underestimate vulnerability to domestic shocks and overestimate exposure to import shocks. </small>  </div> </details> 
 
-## Selected Work in Progress ###
+## Selected work in progress ###
 ### Spatial diffusion of services in Kenya 
 with Peter Wankuru Chacha, [Luke Heath Milsom](https://www.lukemilsom.com/), and [Benard Kipyegon Kirui](https://www.pc.go.ke/node/378)
 
@@ -26,7 +26,7 @@ with Peter Wankuru Chacha, [Luke Heath Milsom](https://www.lukemilsom.com/), and
 with [Anne Brockmeyer](https://www.annebrockmeyer.com/), [G&uuml;neş Aşık](https://sites.google.com/view/gunesasik), and [Lucas Zavala](https://www.lzavala.com/)
 
 
-## Published Papers ###
+## Published papers ###
 ### Supply chains in times of crisis: Evidence from Kenya's production network 
 *World Development* 173 (2024) \
  with Peter Wankuru Chacha and [Benard Kipyegon Kirui](https://www.pc.go.ke/node/378) \
