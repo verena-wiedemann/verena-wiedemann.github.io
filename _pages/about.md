@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Working papers ###
-### Spatial Inequality and Informality in Kenya's Firm Network 
+### Spatial Inequality and Informality in Firm Networks
 with Peter Wankuru Chacha, [Vatsal Khandelwal](https://sites.google.com/view/vatsalkhandelwal/home), and [Benard Kipyegon Kirui](https://www.pc.go.ke/node/378) \
 [Latest draft (October 2025)](https://verena-wiedemann.github.io/files/WKKC_Spatial_Inequality_Informality.pdf) | [World Bank Working Paper Series](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099158309302418763/idu1cbcafe951348e147c4181b218f42b4ec6da5)
 <details>
