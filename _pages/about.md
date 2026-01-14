@@ -18,7 +18,7 @@ with Peter Wankuru Chacha, [Vatsal Khandelwal](https://sites.google.com/view/vat
 
 ## Selected work in progress ###
 ### Growing services: Firm dynamics beyond the city
-with [Benard Kirui](https://www.pc.go.ke/node/378) ® Peter Wankuru Chacha ® [Luke Heath Milsom](https://www.lukemilsom.com/)
+[Benard Kirui](https://www.pc.go.ke/node/378) ® Peter Wankuru Chacha ® [Luke Heath Milsom](https://www.lukemilsom.com/) ® Verena Wiedemann
 
 ### Which firms benefit from internet infrastructure?
 
