@@ -10,15 +10,15 @@ redirect_from:
 
 ## Working papers ###
 ### Spatial Inequality and Informality in Firm Networks
-with Peter Wankuru Chacha, [Vatsal Khandelwal](https://sites.google.com/view/vatsalkhandelwal/home), and [Benard Kipyegon Kirui](https://www.pc.go.ke/node/378) \
+with Peter Wankuru Chacha, [Vatsal Khandelwal](https://sites.google.com/view/vatsalkhandelwal/home), and [Benard Kirui](https://www.pc.go.ke/node/378) \
 [Latest draft (October 2025)](https://verena-wiedemann.github.io/files/WKKC_Spatial_Inequality_Informality.pdf) | [World Bank Working Paper Series](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099158309302418763/idu1cbcafe951348e147c4181b218f42b4ec6da5)
 <details>
 <summary>Abstract</summary>
 <div align="justify">  <small> The spatial configuration of domestic supply chains plays a crucial role in the transmission of shocks. This paper investigates the representativeness of formal sector firm-to-firm trade data in capturing domestic trade patterns in Kenya, a context with high informality. We document stylized facts showing that formal sector trade exhibits a distinct spatial concentration relative to overall economic activity. Linking transaction-level data with data on informal economic activity, we estimate a structural model and construct a revised network that accounts for informal firms. We find that formal sector trade flows underaccount for trade within regions and across regions with stronger social ties. The higher the incidence of informality, the more we underestimate vulnerability to domestic shocks and overestimate exposure to import shocks. </small>  </div> </details> 
 
 ## Selected work in progress ###
-### Spatial diffusion of services in Kenya 
-with Peter Wankuru Chacha, [Luke Heath Milsom](https://www.lukemilsom.com/), and [Benard Kipyegon Kirui](https://www.pc.go.ke/node/378)
+### Growing services: Firm dynamics beyond the city
+with [Benard Kirui](https://www.pc.go.ke/node/378) ® Peter Wankuru Chacha ® [Luke Heath Milsom](https://www.lukemilsom.com/)
 
 ### Which firms benefit from internet infrastructure?
 
@@ -29,7 +29,7 @@ with [Anne Brockmeyer](https://www.annebrockmeyer.com/), [G&uuml;neş Aşık](ht
 ## Published papers ###
 ### Supply chains in times of crisis: Evidence from Kenya's production network 
 *World Development* 173 (2024) \
- with Peter Wankuru Chacha and [Benard Kipyegon Kirui](https://www.pc.go.ke/node/378) \
+ with Peter Wankuru Chacha and [Benard Kirui](https://www.pc.go.ke/node/378) \
 [Published version](https://www.sciencedirect.com/science/article/pii/S0305750X2300181X) | [Blog post for UNIDO](https://iap.unido.org/articles/bridging-gap-how-does-kenyas-domestic-firm-network-link-international-supply-chains) | [Accepted manuscript](http://verena-wiedemann.github.io/files/Covid_supply_chains_July2023.pdf) | [Replication code](http://verena-wiedemann.github.io/files/CKW_WD_replication_code.zip)
 <details>
 <summary>Abstract</summary>
