@@ -10,7 +10,7 @@ redirect_from:
 
 ## Working papers ###
 ### Spatial Inequality and Informality in Firm Networks
-with Peter Wankuru Chacha, [Vatsal Khandelwal](https://sites.google.com/view/vatsalkhandelwal/home), and [Benard Kirui](https://www.pc.go.ke/node/378) \
+with [Peter Wankuru Chacha](https://ke.linkedin.com/in/peter-wankuru-chacha-68137a7a), [Vatsal Khandelwal](https://sites.google.com/view/vatsalkhandelwal/home), and [Benard Kirui](https://www.pc.go.ke/node/378) \
 [Latest draft (October 2025)](https://verena-wiedemann.github.io/files/WKKC_Spatial_Inequality_Informality.pdf) | [World Bank Working Paper Series](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099158309302418763/idu1cbcafe951348e147c4181b218f42b4ec6da5)
 <details>
 <summary>Abstract</summary>
@@ -18,7 +18,7 @@ with Peter Wankuru Chacha, [Vatsal Khandelwal](https://sites.google.com/view/vat
 
 ## Selected work in progress ###
 ### Growing services: Firm dynamics beyond the city
-[Benard Kirui](https://www.pc.go.ke/node/378) ® Peter Wankuru Chacha ® [Luke Heath Milsom](https://www.lukemilsom.com/) ® Verena Wiedemann
+[Benard Kirui](https://www.pc.go.ke/node/378) ® [Peter Wankuru Chacha](https://ke.linkedin.com/in/peter-wankuru-chacha-68137a7a) ® [Luke Heath Milsom](https://www.lukemilsom.com/) ® Verena Wiedemann
 
 ### Which firms benefit from internet infrastructure?
 
@@ -29,7 +29,7 @@ with [Anne Brockmeyer](https://www.annebrockmeyer.com/), [G&uuml;neş Aşık](ht
 ## Published papers ###
 ### Supply chains in times of crisis: Evidence from Kenya's production network 
 *World Development* 173 (2024) \
- with Peter Wankuru Chacha and [Benard Kirui](https://www.pc.go.ke/node/378) \
+ with [Peter Wankuru Chacha](https://ke.linkedin.com/in/peter-wankuru-chacha-68137a7a) and [Benard Kirui](https://www.pc.go.ke/node/378) \
 [Published version](https://www.sciencedirect.com/science/article/pii/S0305750X2300181X) | [Blog post for UNIDO](https://iap.unido.org/articles/bridging-gap-how-does-kenyas-domestic-firm-network-link-international-supply-chains) | [Accepted manuscript](http://verena-wiedemann.github.io/files/Covid_supply_chains_July2023.pdf) | [Replication code](http://verena-wiedemann.github.io/files/CKW_WD_replication_code.zip)
 <details>
 <summary>Abstract</summary>
