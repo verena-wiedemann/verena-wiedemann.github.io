@@ -10,6 +10,7 @@ redirect_from:
 
 ## Working papers ###
 ### Spatial Inequality and Informality in Firm Networks
+*R&R*
 with [Peter Wankuru Chacha](https://ke.linkedin.com/in/peter-wankuru-chacha-68137a7a), [Vatsal Khandelwal](https://sites.google.com/view/vatsalkhandelwal/home), and [Benard Kirui](https://www.pc.go.ke/node/378) \
 [Latest draft (October 2025)](https://verena-wiedemann.github.io/files/WKKC_Spatial_Inequality_Informality.pdf) | [World Bank Working Paper Series](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099158309302418763/idu1cbcafe951348e147c4181b218f42b4ec6da5)
 <details>
@@ -19,6 +20,9 @@ with [Peter Wankuru Chacha](https://ke.linkedin.com/in/peter-wankuru-chacha-6813
 ## Selected work in progress ###
 ### Growing services: Firm dynamics beyond the city
 [Benard Kirui](https://www.pc.go.ke/node/378) ® [Peter Wankuru Chacha](https://ke.linkedin.com/in/peter-wankuru-chacha-68137a7a) ® [Luke Heath Milsom](https://www.lukemilsom.com/) ® Verena Wiedemann ® 
+
+### Cross-country stylized facts on firm networks
+Co-lead with [Chiara Criscuolo](https://scholar.google.com/citations?user=S9nyzQYAAAAJ&hl=en) and [Davide Luzzati](https://scholar.google.com/citations?user=pRW8sOEAAAAJ&hl=it)
 
 ### Which firms benefit from internet infrastructure?
 
@@ -42,14 +46,14 @@ with [Katharina Nicolay](https://www.zew.de/en/team/kfi) \
 
 ## Other research output and writing ###
 
+### *VoxDevLit* on industrial development
+[Chapter on services](https://voxdev.org/voxdevlit/industrial-development/service-led-growth)
+with [Matthew Schwartzman](https://www.matthewschwartzman.com/home) and [Marco Sanfilippo](https://sites.google.com/view/marcosanfilippo/home) \
+edited by [Francesco Amodio](https://sites.google.com/site/fscoamodio/home) and [Markus Poschke](https://markus-poschke.research.mcgill.ca/Index.html)
+
 ### Innovation in green technologies. An opportunity for businesses in low and middle income countries?
 [*IFC insights report*](https://www.ifc.org/en/insights-reports/2025/innovation-in-green-technologies) (2025) \
 led by [Ralf Martin](https://mondpanther.github.io/wwwmondpanther/)
-
-### *VoxDevLit* on industrial development - chapter on services
-*work in progress* \
-with [Matthew Schwartzman](https://www.matthewschwartzman.com/home) and [Marco Sanfilippo](https://sites.google.com/view/marcosanfilippo/home) \
-edited by [Francesco Amodio](https://sites.google.com/site/fscoamodio/home) and [Markus Poschke](https://markus-poschke.research.mcgill.ca/Index.html)
 
 ### Where does solar scale?
 *work in progress* \
