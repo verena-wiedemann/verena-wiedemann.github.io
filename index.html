@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Verena Wiedemann</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-size: 15px;
+      line-height: 1.6;
+      color: #222;
+      background: #fff;
+      display: flex;
+      min-height: 100vh;
+    }
+
+    a { color: #222; }
+    a:hover { color: #555; }
+
+    /* SIDEBAR */
+    header, header * {
+      text-align: left !important;
+    }
+
+    header {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 270px;
+      height: 100vh;
+      padding: 36px 24px 36px 28px;
+      border-right: 1px solid #e8e8e8;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+    }
+
+    header h1 {
+      font-size: 23px;
+      font-weight: 600;
+      color: #0f766e;
+      margin-bottom: 4px;
+      line-height: 1.3;
+    }
+
+    header .position {
+      font-size: 12px;
+      color: #555;
+      line-height: 1.45;
+      margin-bottom: 16px;
+    }
+
+    header img {
+      width: 185px;
+      height: 185px;
+      object-fit: cover;
+      border-radius: 3px;
+      display: block;
+      margin-bottom: 20px;
+    }
+
+    hr.sidebar-rule {
+      border: none;
+      border-top: 1px solid #e0e0e0;
+      margin-bottom: 16px;
+    }
+
+    nav a {
+      display: block;
+      font-size: 13px;
+      color: #444;
+      text-decoration: none;
+      padding: 3px 0;
+      transition: color 0.15s;
+    }
+
+    nav a:hover { color: #111; }
+    nav a.active { color: #111; font-weight: 500; }
+
+    .sidebar-links {
+      margin-top: 16px;
+      font-size: 13px;
+    }
+
+    .sidebar-links a {
+      display: block;
+      color: #444;
+      text-decoration: none;
+      padding: 3px 0;
+    }
+    .sidebar-links a:hover { color: #111; text-decoration: underline; }
+
+    /* MAIN CONTENT */
+    main {
+      margin-left: 270px;
+      padding: 48px 52px 80px 48px;
+      max-width: 820px;
+      flex: 1;
+      text-align: justify;
+    }
+
+    /* INTRO */
+    #intro {
+      margin-bottom: 52px;
+    }
+
+    #intro p {
+      font-size: 14px;
+      color: #333;
+      line-height: 1.7;
+      margin-bottom: 12px;
+    }
+
+    #intro a {
+      text-decoration: underline;
+    }
+
+    .abstract-toggle {
+      font-size: 13px;
+      color: #5f8a78;
+      cursor: pointer;
+      text-decoration: underline;
+    }
+    .abstract-toggle::before {
+      content: '▸ ';
+      font-size: 14px;
+      text-decoration: none;
+      display: inline;
+    }
+    .abstract-toggle.open::before {
+      content: '▾ ';
+    }
+    .abstract-toggle:hover { color: #486a5c; }
+
+    /* SECTION HEADINGS */
+    h2.section-heading {
+      font-size: 17px;
+      font-weight: 600;
+      margin-bottom: 6px;
+      padding-top: 4px;
+      color: #0f766e;
+    }
+
+    .section-rule {
+      border: none;
+      border-top: 1px solid #ddd;
+      margin-bottom: 22px;
+    }
+
+    .section-block {
+      margin-bottom: 48px;
+    }
+
+    /* PAPERS */
+    ul.paper-list {
+      list-style: none;
+      padding: 0;
+    }
+
+    ul.paper-list li {
+      margin-bottom: 28px;
+    }
+
+    .paper-title {
+      font-size: 14.5px;
+      font-weight: 600;
+      margin-bottom: 3px;
+      line-height: 1.4;
+    }
+
+    .paper-meta {
+      font-size: 13px;
+      color: #777;
+      margin-bottom: 5px;
+      line-height: 1.5;
+    }
+
+    .paper-meta a {
+      color: #777;
+      text-decoration: underline;
+    }
+    .paper-meta a:hover { color: #222; }
+
+    .paper-meta .venue {
+      font-style: italic;
+      font-weight: 600;
+      color: #5f8a78;
+    }
+
+    .paper-actions {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: baseline;
+      column-gap: 10px;
+      font-size: 13px;
+      margin-bottom: 4px;
+      line-height: 1.6;
+      text-align: left;
+    }
+
+    .paper-actions > a {
+      color: #444;
+      text-decoration: underline;
+    }
+    .paper-actions > a:hover { color: #111; }
+
+    .abstract-text {
+      display: none;
+      margin-top: 8px;
+      font-size: 13px;
+      color: #444;
+      line-height: 1.65;
+      max-width: 620px;
+      text-align: justify;
+    }
+
+    .abstract-text.show {
+      display: block;
+      margin-bottom: 10px;
+    }
+
+    .coverage {
+      font-size: 12.5px;
+      color: #777;
+    }
+
+    .coverage a { color: #777; text-decoration: none; border-bottom: 1px solid #ddd; }
+    .coverage a:hover { color: #333; }
+
+    /* MOBILE */
+    @media (max-width: 680px) {
+      body { flex-direction: column; }
+      header {
+        position: static;
+        width: 100%;
+        height: auto;
+        border-right: none;
+        border-bottom: 1px solid #e8e8e8;
+        padding: 28px 24px 20px;
+        flex-direction: column;
+        align-items: center;
+        text-align: center !important;
+      }
+      header, header * { text-align: center !important; }
+      header img {
+        width: 120px;
+        height: 120px;
+        margin-bottom: 14px;
+      }
+      header h1 {
+        font-size: 20px;
+        margin-bottom: 4px;
+      }
+      header .position {
+        font-size: 12px;
+        margin-bottom: 12px;
+      }
+      hr.sidebar-rule {
+        display: none;
+      }
+      header nav, header .sidebar-links {
+        display: none;
+      }
+      main {
+        margin-left: 0;
+        padding: 28px 20px 60px;
+        max-width: 100%;
+      }
+      .abstract-text {
+        max-width: 100%;
+      }
+      ul.paper-list li {
+        margin-bottom: 36px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- SIDEBAR -->
+  <header>
+    <img src="photo.jpg" alt="Verena Wiedemann">
+    <h1>Verena Wiedemann</h1>
+    <hr class="sidebar-rule">
+    <nav id="sidebar-nav">
+      <a href="#working-papers">Working papers</a>
+      <a href="#work-in-progress">Work in progress</a>
+      <a href="#publications">Publications</a>
+      <a href="#other-research">Other research output &amp; writing</a>
+    </nav>
+    <div class="sidebar-links">
+      <a href="mailto:vwiedemann@ifc.org">vwiedemann@ifc.org</a>
+      <a href="https://github.com/verena-wiedemann" target="_blank">GitHub</a>
+    </div>
+  </header>
+
+  <!-- MAIN -->
+  <main>
+
+    <!-- INTRO -->
+    <div id="intro" class="section-block">
+      <p>I am an economist in the Private Markets Department (DEC-IFC) of the World Bank Group. My research interests lie at the intersection of trade, production networks, firm dynamics, and economic development.</p>
+      <p>In 2023, I completed my PhD in Economics at the University of Oxford, where I remain affiliated with the Department of Economics and the Centre for the Study of African Economies as an academic visitor.</p>
+      <p>I am a member of the World Bank&rsquo;s <a href="https://www.worldbank.org/en/programs/datax-lab" target="_blank">DaTax</a> &mdash; a lab to study taxes, firms and jobs using microdata.</p>
+    </div>
+
+    <!-- WORKING PAPERS -->
+    <div id="working-papers" class="section-block">
+      <h2 class="section-heading">Working papers</h2>
+      <hr class="section-rule">
+      <ul class="paper-list">
+
+        <li>
+          <p class="paper-title">Spatial inequality and informality in firm networks</p>
+          <p class="paper-meta">with <a href="https://ke.linkedin.com/in/peter-wankuru-chacha-68137a7a" target="_blank">Peter Wankuru Chacha</a>, <a href="https://sites.google.com/view/vatsalkhandelwal/home" target="_blank">Vatsal Khandelwal</a>, and <a href="https://www.pc.go.ke/node/378" target="_blank">Benard Kirui</a></p>
+          <p class="paper-meta"><span class="venue">Revise and Resubmit, Economic Journal</span></p>
+          <div class="paper-actions">
+            <span class="abstract-toggle" onclick="this.classList.toggle('open');this.parentElement.nextElementSibling.classList.toggle('show')">Abstract</span>
+            <a href="https://verena-wiedemann.github.io/files/WKKC_Spatial_Inequality_Informality.pdf" target="_blank">Latest draft (October 2025)</a>
+            <a href="https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099158309302418763/idu1cbcafe951348e147c4181b218f42b4ec6da5" target="_blank">World Bank Working Paper Series</a>
+          </div>
+          <div class="abstract-text">The spatial configuration of domestic supply chains plays a crucial role in the transmission of shocks. This paper investigates the representativeness of formal sector firm-to-firm trade data in capturing domestic trade patterns in Kenya, a context with high informality. We document stylized facts showing that formal sector trade exhibits a distinct spatial concentration relative to overall economic activity. Linking transaction-level data with data on informal economic activity, we estimate a structural model and construct a revised network that accounts for informal firms. We find that formal sector trade flows underaccount for trade within regions and across regions with stronger social ties. The higher the incidence of informality, the more we underestimate vulnerability to domestic shocks and overestimate exposure to import shocks.</div>
+        </li>
+
+        <li>
+          <p class="paper-title">Formal labor market dynamics and development</p>
+          <p class="paper-meta">with <a href="https://www.annebrockmeyer.com/" target="_blank">Anne Brockmeyer</a>, <a href="https://sites.google.com/site/fransgerard/home" target="_blank">François Gerard</a>, <a href="https://sites.google.com/view/gabriel-ulyssea" target="_blank">Gabriel Ulyssea</a>, <a href="https://sites.google.com/view/lindawu" target="_blank">Linda Wu</a>, <a href="https://www.marcelobergolo.com/" target="_blank">Marcelo Bergolo</a>, <a href="https://sites.google.com/site/cenirod/" target="_blank">Rodrigo Ceni Gonzalez</a>, <a href="https://www.pc.go.ke/node/378" target="_blank">Benard Kirui</a>, <a href="https://aflopezluzuriaga.github.io/website/index.html" target="_blank">Andrea Lopez-Luzuriaga</a>, <a href="https://sites.google.com/site/leonardomoraleszurita/" target="_blank">Leonardo Fabio Morales</a>, <a href="https://sites.google.com/view/andrea-otero-cortes/home" target="_blank">Andrea Otero-Cortes</a>, <a href="https://sites.google.com/view/riedeleconomics/" target="_blank">Nadine Riedel</a>, <a href="https://www.bcentral.cl/en/web/banco-central/investigadores/matias-tapia" target="_blank">Matías Tapia</a>, and <a href="https://www.pier.or.th/en/members/tanisa-tawichsri/" target="_blank">Tanisa Tawichsri</a></p>
+          <div class="paper-actions">
+            <span class="abstract-toggle" onclick="this.classList.toggle('open');this.parentElement.nextElementSibling.classList.toggle('show')">Abstract</span>
+            <a href="https://lindaawu.github.io/Formal_Labor_Market_Dynamics_Development_20260522.pdf" target="_blank">Latest draft (May 2026)</a>
+          </div>
+          <div class="abstract-text">This paper studies formal employment dynamics using linked employer&ndash;employee data from eight countries spanning a wide income range from Kenya to Chile. First, we show that formality rates increase with development, both between and within countries, because more workers enter the formal sector, not because they spend more time in formal jobs. Second, formal labor market fluidity increases with development, as workers hold more formal jobs, spend less time in each job, and less time between jobs. Third, greater fluidity is associated with higher life-cycle wage growth, which is largely accounted for by within rather than between-firm wage gains.</div>
+        </li>
+
+      </ul>
+    </div>
+
+    <!-- WORK IN PROGRESS -->
+    <div id="work-in-progress" class="section-block">
+      <h2 class="section-heading">Selected work in progress</h2>
+      <hr class="section-rule">
+      <ul class="paper-list">
+
+        <li>
+          <p class="paper-title">Cross-country stylized facts on firm networks</p>
+          <p class="paper-meta">Co-lead with <a href="https://scholar.google.com/citations?user=S9nyzQYAAAAJ&amp;hl=en" target="_blank">Chiara Criscuolo</a> and <a href="https://scholar.google.com/citations?user=pRW8sOEAAAAJ&amp;hl=it" target="_blank">Davide Luzzati</a></p>
+        </li>
+
+        <li>
+          <p class="paper-title">Growing services: Firm dynamics beyond the city</p>
+          <p class="paper-meta"><a href="https://www.pc.go.ke/node/378" target="_blank">Benard Kirui</a> &reg; <a href="https://ke.linkedin.com/in/peter-wankuru-chacha-68137a7a" target="_blank">Peter Wankuru Chacha</a> &reg; <a href="https://www.lukemilsom.com/" target="_blank">Luke Heath Milsom</a> &reg; Verena Wiedemann &mdash; <em>slides available on request</em></p>
+        </li>
+
+        <li>
+          <p class="paper-title">Financial frictions along supply chains</p>
+          <p class="paper-meta">with <a href="https://www.pc.go.ke/node/378" target="_blank">Benard Kirui</a> and <a href="https://sites.google.com/view/vatsalkhandelwal/home" target="_blank">Vatsal Khandelwal</a></p>
+          <p class="paper-meta">&mdash; <em>data collection ongoing</em></p>
+        </li>
+
+        <li>
+          <p class="paper-title">Supply chain impacts of the EU Carbon Border Adjustment Mechanism</p>
+          <p class="paper-meta">with <a href="https://www.annebrockmeyer.com/" target="_blank">Anne Brockmeyer</a>, <a href="https://sites.google.com/view/gunesasik" target="_blank">Güneş Aşık</a>, <a href="https://unu.edu/merit/about/research-fellow/cigdem-ekiz" target="_blank">Çiğdem Ekiz</a>, and <a href="https://www.lzavala.com/" target="_blank">Lucas Zavala</a></p>
+        </li>
+
+      </ul>
+    </div>
+
+    <!-- PUBLICATIONS -->
+    <div id="publications" class="section-block">
+      <h2 class="section-heading">Publications</h2>
+      <hr class="section-rule">
+      <ul class="paper-list">
+
+        <li>
+          <p class="paper-title">Supply chains in times of crisis: Evidence from Kenya&rsquo;s production network</p>
+          <p class="paper-meta">with <a href="https://ke.linkedin.com/in/peter-wankuru-chacha-68137a7a" target="_blank">Peter Wankuru Chacha</a> and <a href="https://www.pc.go.ke/node/378" target="_blank">Benard Kirui</a></p>
+          <p class="paper-meta"><span class="venue">World Development</span>, 173 (2024)</p>
+          <div class="paper-actions">
+            <span class="abstract-toggle" onclick="this.classList.toggle('open');this.parentElement.nextElementSibling.classList.toggle('show')">Abstract</span>
+            <a href="https://www.sciencedirect.com/science/article/pii/S0305750X2300181X" target="_blank">Published version</a>
+            <a href="https://iap.unido.org/articles/bridging-gap-how-does-kenyas-domestic-firm-network-link-international-supply-chains" target="_blank">Blog post for UNIDO</a>
+            <a href="https://verena-wiedemann.github.io/files/Covid_supply_chains_July2023.pdf" target="_blank">Accepted manuscript</a>
+            <a href="https://verena-wiedemann.github.io/files/CKW_WD_replication_code.zip" target="_blank">Replication code</a>
+          </div>
+          <div class="abstract-text">Trading relationships between suppliers and buyers play a key role in transmitting both local and international shocks. We use transaction-level data from Kenya to study the relevance of a firm&rsquo;s domestic network position and links to international supply chains in determining its trajectory during the COVID-19 crisis. We document that firms with high exposure to import and export markets tend to be larger, older, and employ more workers. The specialisation of direct importers, often intermediaries, on international markets made them very vulnerable to the initial COVID-19 shock. Exporters, one-third of whom operate in primary sectors, experienced a less severe decline in sales. We find that both importers and exporters adjust their domestic supply chains in response to international trade shocks - before and during the crisis alike. Sourcing from international markets does not crowd out domestic purchases, while sales abroad and at home can act as substitutes. Diversified domestic supply chains helped firms to mitigate the impact of the COVID-19 crisis and recover more strongly.</div>
+        </li>
+
+        <li>
+          <p class="paper-title">Taxing investments in the Asia-Pacific region: the importance of cross-border taxation and fiscal incentives</p>
+          <p class="paper-meta">with <a href="https://www.zew.de/en/team/kfi" target="_blank">Katharina Nicolay</a></p>
+          <p class="paper-meta"><span class="venue">World Tax Journal</span>, 8(2), pp.193&ndash;223 (2016)</p>
+          <div class="paper-actions">
+            <a href="https://www.ibfd.org/shop/journal/asia-pacificinternational-taxing-investments-asia-pacific-region-importance-cross" target="_blank">Published version</a>
+            <a href="https://ftp.zew.de/pub/zew-docs/dp/dp15014.pdf" target="_blank">ZEW working paper</a>
+          </div>
+        </li>
+
+      </ul>
+    </div>
+
+    <!-- OTHER RESEARCH OUTPUT AND WRITING -->
+    <div id="other-research" class="section-block">
+      <h2 class="section-heading">Other research output and writing</h2>
+      <hr class="section-rule">
+      <ul class="paper-list">
+
+        <li>
+          <p class="paper-title">Chapter on services in <em>VoxDevLit</em> on industrial development</p>
+          <p class="paper-meta">with <a href="https://www.matthewschwartzman.com/home" target="_blank">Matthew Schwartzman</a> and <a href="https://sites.google.com/view/marcosanfilippo/home" target="_blank">Marco Sanfilippo</a>; edited by <a href="https://sites.google.com/site/fscoamodio/home" target="_blank">Francesco Amodio</a> and <a href="https://markus-poschke.research.mcgill.ca/Index.html" target="_blank">Markus Poschke</a></p>
+          <div class="paper-actions">
+            <a href="https://voxdev.org/voxdevlit/industrial-development/service-led-growth" target="_blank">Published chapter</a>
+          </div>
+        </li>
+
+        <li>
+          <p class="paper-title">Innovation in green technologies. An opportunity for businesses in low and middle income countries?</p>
+          <p class="paper-meta">led by <a href="https://mondpanther.github.io/wwwmondpanther/" target="_blank">Ralf Martin</a></p>
+          <div class="paper-actions">
+            <a href="https://www.ifc.org/en/insights-reports/2025/innovation-in-green-technologies" target="_blank">IFC insights report (2025)</a>
+          </div>
+        </li>
+
+      </ul>
+    </div>
+
+  </main>
+
+  <script>
+    // Highlight active sidebar link on scroll
+    const sections = document.querySelectorAll('main [id]');
+    const navLinks = document.querySelectorAll('#sidebar-nav a');
+
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          navLinks.forEach(a => a.classList.remove('active'));
+          const active = document.querySelector(`#sidebar-nav a[href="#${entry.target.id}"]`);
+          if (active) active.classList.add('active');
+        }
+      });
+    }, { rootMargin: '-20% 0px -70% 0px' });
+
+    sections.forEach(s => observer.observe(s));
+  </script>
+
+</body>
+</html>
